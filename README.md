@@ -3,8 +3,13 @@
 ## 目录    
 先挖个坑    
 
-## 加载以下函数    
+## 加载以下包，函数    
 ```r
+library(DESeq2)
+library(factoextra)
+library(ggplot2)
+library(pheatmap)
+
 myNormal <- function(x, grouplist){
   colData <- data.frame(row.names = colnames(x), grouplist)
   dds <- DESeq2::DESeqDataSetFromMatrix(countData = x,
