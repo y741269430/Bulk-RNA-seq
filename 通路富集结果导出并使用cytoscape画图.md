@@ -114,6 +114,9 @@ write.xlsx(node_data, 'cyto节点文件.xlsx')
 
 ---
 ## 8.Cytoscape 网络图绘制  
-- [下载](https://cytoscape.org/download.html)
-
-
+- [下载软件](https://cytoscape.org/download.html)
+- [操作手册](http://manual.cytoscape.org/en/stable/)    
+步骤：123导入边文件，45导入节点文件    
+<img src="https://github.com/y741269430/Bluk-RNA-seq/blob/main/figure/cyto1.png" width="600" />
+<img src="https://github.com/y741269430/Bluk-RNA-seq/blob/main/figure/cyto2.png" width="600" />
+<img src="https://github.com/y741269430/Bluk-RNA-seq/blob/main/figure/cyto3.png" width="600" />
