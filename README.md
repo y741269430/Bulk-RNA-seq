@@ -1,4 +1,4 @@
-# Bluk-RNA-seq
+# Bulk-RNA-seq
 
 ## 目录    
 先挖个坑    
